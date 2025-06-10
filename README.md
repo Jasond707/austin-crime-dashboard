@@ -18,8 +18,8 @@ I also looked at how often crimes were cleared or not cleared.
 - How often were crimes cleared vs not cleared?
 
 ## 🔑 Key Insights
-- District 4 had the most crime reported overall
-- Theft and burglary showed up as the most common offenses
+- District 4 had the most crime reported overall and peaked in 2008.
+- Theft and burglary showed up as the most common offenses.
 - Over 85% of crimes were cleared, but more than 370,000 went uncleared — mostly involving family disturbances.
 - Nearly **14.5% of cases were missing a clearance date**, which likely means the case is still open. These were treated as “Uncleared” in the analysis for accuracy.
 
