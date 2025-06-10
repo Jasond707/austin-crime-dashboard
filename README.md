@@ -1,4 +1,4 @@
-# Austin Crime Dashboard
+# Austin Crime Dashboard (2003-2024)
 
 This project is a data analysis I did using real crime data from the City of Austin. I used SQL to write queries and explore trends, cleaned the data a bit in Excel, 
 and then built an interactive dashboard in Tableau. One of my goals was to improve how I tell stories with data while working with a real-world dataset.
